@@ -5,22 +5,14 @@
 <img align="right" height="150" src="https://media.tenor.com/qVKlQMB2DpsAAAAM/hacker-hacking.gif"  />
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+ <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt ="html logo" />
+ <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt ="css logo" />
+ <img src="https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000" alt ="js logo" />
+ <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt ="wordpress logo" />
+ <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" alt ="react js logo" />
 </div>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -30,8 +22,9 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
-###
 
 <p align="left">🚀 HTML, CSS, and JavaScript expert crafting user-friendly interfaces.<br>🛠️ Proficient in WordPress (portfolio included!) and familiar with Python🐍.<br>💡 Key projects: AI Image Generator 🖼️ and a College Institute Management System 🎓 (front-end).</p>
 
-###
+<p align="left"> What I’m Working On</p>
+<p align="left">Currently, I’m focused on improving my full-stack capabilities, especially in back-end optimization and cloud deployment.</p>
+
